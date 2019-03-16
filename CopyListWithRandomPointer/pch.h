@@ -11,4 +11,9 @@
 
 // TODO: add headers that you want to pre-compile here
 
+#include <optional>
+#include <unordered_set>
+#include <unordered_map>
+#include <stack>
+
 #endif //PCH_H
